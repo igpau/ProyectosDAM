@@ -1,7 +1,7 @@
 # Archivos y carpetas de IntelliJ IDEA
 .idea/
 *.iml
-
+*.gitignore
 # Archivos de compilación
 /out/
 build/
