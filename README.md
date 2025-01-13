@@ -40,7 +40,7 @@ Herramienta que permite:
 
 ## 📢 Contacto
 
-- **Email**: [igpau24@gmail.com](mailto:igpau24@gmail.com)
+- **Email**: [ibanezgomezpau@gmail.com](mailto:ibanezgomezpau@gmail.com)
 - **LinkedIn**: [linkedin.com/in/pauig](https://linkedin.com/in/pauig)
 
 Gracias por visitar mi perfil. ¡Nos vemos en el código! 😉
